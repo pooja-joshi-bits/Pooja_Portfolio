@@ -287,6 +287,8 @@ span.wave {
     display: list-item;
   }
 
+  p { margin:0 }
+
   .Data-Analytic{
       text-align: left;
   }

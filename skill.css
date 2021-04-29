@@ -235,6 +235,18 @@ to {
     width: 65%}
 }
 
+
+li{
+    font-size: 14px;
+    margin-left: 10px;
+    list-style-type: circle;
+    display: list-item;
+  }
+
+
+
+
+
 #Skill-C {
     animation: Animate-C 4s;
     -webkit-animation: Animate-C 4s;
