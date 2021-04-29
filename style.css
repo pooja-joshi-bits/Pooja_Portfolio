@@ -107,7 +107,7 @@ span.wave {
 }
 .boyimage{
   height: 250px;
-  width:  250px; 
+  width:  220px; 
 }
 
 @media only screen and (max-width : 1183px){
@@ -284,7 +284,7 @@ span.wave {
   }
 
   li{
-    display: inline;
+    display: list-item;
   }
 
   .Data-Analytic{
