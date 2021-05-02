@@ -1,0 +1,33 @@
+#header {
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.144);
+    height: 30px;
+}
+
+#container {
+    width: 1200px;
+    background-color: #ffcc3310;
+    margin: auto;
+}
+#first {
+    width: 600px;
+    float: left;
+    height: 150px;
+        background-color: rgba(0, 0, 255, 0.13);
+}
+#second {
+    width: 600px;
+    float: left;
+    height: 150px;
+    background-color: rgba(0, 128, 0, 0.246);
+}
+#clear {
+    clear: both;
+}
+
+footer{
+    padding-top: 2%;
+    color: #868e96;
+    text-align: center;
+  }
+  
